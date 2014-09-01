@@ -1,0 +1,2 @@
+cmdhistory=["(def server (jetty/run-jetty \#'app {\:port 3000 \:join? false}))" "(ns ring-webapp.app)" "(def server (jetty/run-jetty \#'app {\:port 3000 \:join? false}))" "(run-jetty handler {\:port 3000})" "(jetty/run-jetty handler {\:port 3000})" "(jetty/run-jetty \#'handler {\:port 3000})" "(*ns*)" "(ns-name)" "(ns-name ns)" "(printme \\"Richie\\")" "(load ring-webapp/app)" "(load ring_webapp/app)" "(load \\"ring_webapp/app\\")"]
+eclipse.preferences.version=1
